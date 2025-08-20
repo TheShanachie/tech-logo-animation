@@ -91,7 +91,7 @@ Component maintains absolute dimensions regardless of context. Good for grid lay
 ### Custom Branded Chip
 ```jsx
 <RetroChipComponent 
-  text="ACME"
+  text="LOL"
   size={350}
   borderColor="#0066cc"
   borderWidth={5}
